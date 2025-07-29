@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left"> - I am interested in programming.<br> - I am currently studying a University Degree in Programming. <br> - Goals: Work as a BackEnd or DevOps programmer</p>
+<p align="left"> - I am interested in programming.<br> - I am currently pursuing a Programming Technician degree. <br> - Goals: Work as a BackEnd programmer</p>
 
 ###
