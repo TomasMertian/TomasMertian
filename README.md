@@ -2,7 +2,7 @@
 
 ### Programador backend
 
-- 🌱 Actualmente estoy aprendiendo sobre **Apis backend con .NET, base de datos postgresQL y docker.**
+- 🌱 Actualmente estoy aprendiendo sobre **Apis backend con .NET, base de datos postgreSQL y docker.**
 
 - 👯 Estoy buscando colaborar en **Proyectos open source.**
 
